@@ -136,7 +136,7 @@
         display: flex;
         align-items: flex-start;
         justify-content: flex-start;
-        width: 100%;
+        width: 640px;
     }
     .linha-horizontal_2 {
         width: 10vh;
@@ -154,6 +154,9 @@
     }
     .social{
         align-self: flex-start;
+    }
+    .social_links p{
+        display: none;
     }
     .vlive{
         height: 3vh;
