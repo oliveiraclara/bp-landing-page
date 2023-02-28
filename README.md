@@ -6,7 +6,7 @@
 
 ![Screenshot](../claramartins/img/screenshot.png)
 
-[Clique aqui]() para visitar o site.
+[Clique aqui](https://oliveiraclara.github.io/bp-landing-page/) para visitar o site.
 
 ---
 
